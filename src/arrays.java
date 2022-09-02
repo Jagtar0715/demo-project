@@ -10,7 +10,7 @@ public class arrays {
                  transpose [j][i] = matrix [ i] [j];
 
              }
-           //  System.out.println(transpose);
+           System.out.println(transpose);
 
          }
 printMatrix(transpose);
