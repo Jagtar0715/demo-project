@@ -9,9 +9,8 @@ public class arrays {
              for ( int j = 0 ; j< column ; j++) {
                  transpose [j][i] = matrix [ i] [j];
 
-             }
-           System.out.println(transpose);
-
+             }System.out.println(transpose);
+             System.out.println("mycode jagtar");
          }
 printMatrix(transpose);
     }
